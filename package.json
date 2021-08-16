@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mevansupe/order-management-api/issues"
   },
-  "homepage": "https://github.com/mevansupe/order-management-api#readme"
+  "homepage": "https://github.com/mevansupe/order-management-api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
