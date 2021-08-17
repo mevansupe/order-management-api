@@ -8,6 +8,7 @@
   },
   "repository": {
     "type": "git",
+    "start": "node server.js",
     "url": "git+https://github.com/mevansupe/order-management-api.git"
   },
   "author": "",
