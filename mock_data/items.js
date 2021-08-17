@@ -2,16 +2,16 @@ const items = [
     {
         id: 1,
         name: "Chicken",
-        unitPrice: 100
+        unitPrice: 200
     },
     {
         id: 2,
-        name: "Chicken",
-        unitPrice: 100
+        name: "Fish",
+        unitPrice: 150
     },
     {
         id: 3,
-        name: "Chicken",
+        name: "Vegi",
         unitPrice: 100
     }
 ];
